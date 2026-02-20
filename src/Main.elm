@@ -1,7 +1,7 @@
 module Main exposing (main)
 
-import Html exposing (Html, div, text)
 import Helper
+import Html exposing (Html, div, text)
 
 
 main : Html msg
